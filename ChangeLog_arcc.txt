@@ -1,5 +1,5 @@
-{"version_code":452877,"content":"
-<p> تحديث|Update 0.9B</p>
+{"version_code":452880,"content":"
+<p> تحديث|Update v1.00</p>
 
 
 <li> نسخة ضد الحظر ان شاء الله</li>
@@ -14,4 +14,4 @@
 
 
 
-","url":"https://www.saifroid.com/2019/06/WhatsApp-X.html"}
+","url":"https://do-whatsapp.blogspot.com /2019/08/DoWhatsApp.html"}
