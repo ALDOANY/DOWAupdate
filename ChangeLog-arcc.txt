@@ -1,0 +1,17 @@
+{"version_code":452877,"content":"
+<p> تحديث|Update v1.00</p>
+
+
+<li> نسخة ضد الحظر ان شاء الله</li>
+<li> التحديث لنسخة الماركت  2.19.203</li>
+<li> تفعيل كافة الميزات التجريبية لشركة الواتساب</li>
+<li> اصلاح المشاكل السابقة</li>
+
+
+<li> New Base Updated to 2.19.203 Stable</li>
+<li> Enabled All hidden features..</li>
+<li> Fixed all bugs of v0.8A</li>
+
+
+
+","url":"https://do-whatsapp.blogspot.com /2019/08/DoWhatsApp.html"}
