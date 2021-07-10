@@ -1,7 +1,7 @@
-{"version_code":453165,"content":"
-<p> تحديث|Update v2.10</p>
+{"version_code":210422007,"content":"
+<p> تحديث|Update v4.00</p>
 
 
-<li> تمديد النسخة لمدة 4 اشهر</li>
+<li> تحديث قاعدة واتساب الى 2.21.4.22</li>
 
 ","url":"https://bit.ly/DoWhatsApp"}
